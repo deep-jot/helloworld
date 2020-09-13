@@ -10,4 +10,4 @@ origin  https://github.com/deep-jot/helloworld (fetch)
 origin  https://github.com/deep-jot/helloworld (push)
 
 
-test fetch in local without commit
+test fetch in local without commit changes
