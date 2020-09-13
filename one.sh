@@ -9,3 +9,5 @@ $ git remote -v
 origin  https://github.com/deep-jot/helloworld (fetch)
 origin  https://github.com/deep-jot/helloworld (push)
 
+
+test fetch in local without commit
